@@ -48,11 +48,3 @@ dist/
 .idea/
 cmake-build-*/
 
-# Qt Creator
-*.pro.user
-*.pro.user.*
-*.moc
-*.qmake.stash
-*.qmake.stash.* 
-*.qmake.*
-
