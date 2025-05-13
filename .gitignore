@@ -1,0 +1,49 @@
+# Object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.elf
+*.hex
+*.bin
+
+# Debug files
+*.map
+*.a
+*.so
+*.dSYM/
+
+# Dependency files
+*.d
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build directories
+build/
+Build/
+output/
+bin/
+lib/
+
+# VSCode
+.vscode/
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbp
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# CLion
+.idea/
+cmake-build-*/
